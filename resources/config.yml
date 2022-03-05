@@ -1,0 +1,17 @@
+# Default config
+
+§aTest:
+  money: 1000
+  perms:
+    - "test.perm"
+    - "hm.perm"
+
+§bTest2:
+  money: 2000
+  perms:
+    - "hm2.perm"
+
+§cTest3:
+  money: 3000
+  perms:
+    - "hm3.perm"

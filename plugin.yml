@@ -1,0 +1,5 @@
+name: RankMaster
+version: 1.0
+main: ByNamles\Rank\Rank
+api: 4.0.0
+author: ByNamles
