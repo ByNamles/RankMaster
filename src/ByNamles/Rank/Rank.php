@@ -26,7 +26,7 @@ class Rank extends PluginBase{
     public EconomyAPI $economy;
 
     /** @var PurePerms */
-    public EconomyAPI $pureperms;
+    public PurePerms $pureperms;
 
     /** @var PureChat */
     public PureChat $purechat;
